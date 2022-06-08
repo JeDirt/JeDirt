@@ -1,5 +1,5 @@
 # Some BIO #
-Denys, 18 y.o.\
+Denys, 19 y.o.\
 Ukraine, Odesa, Chornomorsk\
 I'm a student of OPNU, Institute of Computer Systems, Computer Science.
 
@@ -17,13 +17,13 @@ I'm a student of OPNU, Institute of Computer Systems, Computer Science.
 - Flowchart building
 - MySQL
 - Jira 
+- Perforce
 - English: B2 - Upper Intermediate
 
 
 
 # Interests #
 - GameDev
-- AR/VR(would like to try)
 - Desktop development
 
 
